@@ -1,0 +1,4 @@
+Name,Surname,ID,Date
+Hilal,Demir,hexols,Wednesday 10:30-11:30,
+Hilal,Demir,hexols,Monday 10:30-11:30,
+Hilal,Demir,lal2109,Friday 10:30-11:30,

@@ -1,0 +1,2 @@
+Name,Surname,ID,Medication Prescribed,SGK Code,Prescription Date
+Hilal,Demir,lal2109,Parol,39730906843,2020-06-10 13:53:51.145350900
