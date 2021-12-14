@@ -1,3 +1,0 @@
-Name,Surname,ID,Date,The time that appointment was made
-Sehun,Oh,asehun,Wednesday 10:30-11:30,2020-06-09 01:26:59.741910200
-Sehun,Oh,asehun,Monday 10:30-11:30,2020-06-09 23:02:40.280643100
