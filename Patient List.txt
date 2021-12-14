@@ -1,2 +1,0 @@
-Name,Surname,ID
-Hilal,Demir,lal2109
