@@ -1,3 +1,0 @@
-Name,Surname,ID,Test Type,Test Result,Test TimeLab Technician Name,Lab Techinician Surname
-Hilal,Demir,hexols,lumbarpuncture,You are ill,2020-06-09 13:41:02.038843600,Jongdae,Kim
-Hilal,Demir,hexols,lumbarpuncture,Liver function is well,2020-06-10 13:57:24.670833300,Jongdae,Kim
