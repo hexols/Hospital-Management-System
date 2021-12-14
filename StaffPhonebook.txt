@@ -1,6 +1,0 @@
-Name,Surname,Number
-Sehun,Oh,828282828
-Jongdae,Kim,757577755
-Seojun,Park,121212121
-Emre,Kocakalay,53488888
-Tuygun,Sari,3212132
