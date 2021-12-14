@@ -1,3 +1,0 @@
-Name,Surname,ID,Test Type,Patient Name,Surname,PatienID,Doctor Name,Doctor Surname,Doctor ID
-Jongdae,Kim,chen,lumbar puncture,Hilal,Demir,hexols,Sehun,Oh,asehun
-Jongdae,Kim,chen,liver function test,Hilal,Demir,lal2109,Sehun,Oh,asehun
