@@ -1,2 +1,0 @@
-Name,Surname,ID
-Tuygun,Sari,bsari
