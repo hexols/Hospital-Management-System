@@ -1,2 +1,0 @@
-Name,Surname,ID
-Sehun,Oh,asehun
